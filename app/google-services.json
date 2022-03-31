@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1047137721267",
+    "project_id": "firefox-4808c",
+    "storage_bucket": "firefox-4808c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047137721267:android:64d2bc7159a8493ce089c6",
+        "android_client_info": {
+          "package_name": "com.example.firefox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047137721267-roe5c5577uhritb3gdh6nsgjb7gv29ct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUn1xl0Iruo_uFYtUfDYiU3LmTY8zQBYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047137721267-roe5c5577uhritb3gdh6nsgjb7gv29ct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
